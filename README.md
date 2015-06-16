@@ -11,7 +11,7 @@
 ## Installation
 
 ```sh
-$ npm install -g express-generator
+$ npm i express-generator-mvc
 ```
 
 ## Quick Start
