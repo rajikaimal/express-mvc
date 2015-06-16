@@ -1,10 +1,10 @@
 {
   "name": "express-generator-mvc",
   "description": "Express' application generator with MVC",
-  "version": "4.12.4",
+  "version": "0.0.1",
   "author": {
-    "name": "TJ Holowaychuk",
-    "email": "tj@vision-media.ca"
+    "name": "Rajika Imal",
+    "email": "inbox.rajika@gmail.com"
   },
   "contributors": [
     {
@@ -99,11 +99,6 @@
       "email": "inbox.rajika@gmail.com"
     }
   ],
-  "dist": {
-    "shasum": "f779e24e98e7a5aef5c2326d6db1e12747d1f5df",
-    "tarball": "http://registry.npmjs.org/express-generator/-/express-generator-4.12.4.tgz"
-  },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/express-generator/-/express-generator-4.12.4.tgz",
   "readme": "ERROR: No README data found!"
 }
