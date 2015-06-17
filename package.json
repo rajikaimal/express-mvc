@@ -1,7 +1,7 @@
 {
   "name": "express-generator-mvc",
   "description": "Express' application generator with MVC",
-  "version": "4.12.4",
+  "version": "4.12.6",
   "author": {
     "name": "Rajika Imal",
     "email": "inbox.rajika@gmail.com"
