@@ -13,6 +13,8 @@
 ```sh
 $ npm install express-generator-mvc
 ```
+NOTE : If you have already installed express-generator maynot work , first uninstall it by 
+$ npm uninstall -g express-generator 
 
 ## Quick Start
 
