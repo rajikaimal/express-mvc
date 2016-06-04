@@ -4,10 +4,20 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var mongoose = require('mongoose');
+
+var mongooseConnect = require('./config/mongoose')();
+
+var user = mongoose.model('User', { firstname: 'String', lastname: 'String', username: 'String' });
 
 var routes = require('./routes/index');
-var users = require('./routes/users');
-var models = require('./routes/models');
+var users = require('./routes/user');
+var models = require('./models/user');
+
+//models(user).addUser();
+//models(user).getUser();
+//models(user).removeUser();
+
 var app = express();
 
 // view engine setup
