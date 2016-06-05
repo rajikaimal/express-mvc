@@ -46,7 +46,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xoRajika/express-mvc.git"
+    "url": "git+https://github.com/rajikaimal/express-mvc.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -78,7 +78,7 @@
   },
   "gitHead": "866ce8bb80e0eedd5dea0714cc9abfda3ae1c386",
   "bugs": {
-    "url": "https://github.com/xoRajika/express-mvc/issues"
+    "url": "https://github.com/rajikaimal/express-mvc/issues"
   },
   "homepage": "https://github.com/expressjs/generator",
   "_id": "express-generator@4.12.4",
